@@ -40,6 +40,6 @@ streamlit run app.py
 
 ## Notes
 
-- The application uses the YOLOv8n model by default
+- The application uses the YOLO11n model by default
 - Webcam access is required for the live feed
 - CSV files are saved with timestamps in the filename 
