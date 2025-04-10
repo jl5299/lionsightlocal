@@ -1,0 +1,49 @@
+/* Main styling */
+.main {
+    background-color: #1a1c1f;
+    color: #ffffff;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+/* Metric card styling */
+.metric-card {
+    background-color: #2d3748;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+}
+.metric-value {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.metric-label {
+    font-size: 14px;
+    color: #a0aec0;
+}
+
+/* Tabs styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2px;
+    background-color: #2d3748;
+    padding: 0.5rem;
+    border-radius: 8px;
+}
+.stTabs [data-baseweb="tab"] {
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+}
+.stTabs [data-baseweb="tab-panel"] {
+    background-color: #2d3748;
+    border-radius: 8px;
+    padding: 1rem;
+} 
